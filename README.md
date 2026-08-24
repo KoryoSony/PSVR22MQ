@@ -5,6 +5,7 @@ I will be trying my best to make this project work, but you have to understand t
 # Here is a plan of how all of this will THEORETICALLY work
 
 <img width="650" alt="IMG_0053" src="https://github.com/user-attachments/assets/03c9426c-e99d-474c-b623-1d5e77500042" />
+since I will be aiming this project at non rooted headsets we need a bridge, in my situation my bridge for this project will be a rooted android that will act as the PSVR2 and then wirelessly send the image, sound and haptics to the quest 3 (hopefully) 
 
 I won't be really updating here for every little thing, but I will try my best to update this once I reach a milestone.
 
