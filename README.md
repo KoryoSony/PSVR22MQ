@@ -2,11 +2,9 @@
 
 I will be trying my best to make this project work, but you have to understand that I'm a 14-year-old who also has school and other stuff to balance.
 
-# THEORETICALLY WORK
+# Here is a plan of how all of this will THEORETICALLY work
 
-Here is a plan of how all of this will # THEORETICALLY work
-
-<img width="800" alt="IMG_0053" src="https://github.com/user-attachments/assets/03c9426c-e99d-474c-b623-1d5e77500042" />
+<img width="650" alt="IMG_0053" src="https://github.com/user-attachments/assets/03c9426c-e99d-474c-b623-1d5e77500042" />
 
 I won't be really updating here for every little thing, but I will try my best to update this once I reach a milestone.
 
