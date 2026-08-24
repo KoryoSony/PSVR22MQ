@@ -16,7 +16,7 @@ Speaking of milestones, here are current milestones progress:
 > Make the PS5 think that a PSVR was connected, even for a split second.
 
 This milestone was semi-achieved by me building an app that can change a rooted phone's usb identifiers to the psvr2's ones.
-when the phone (aka the bridge) gets plugged in, it throws a "Connet your Playstation VR2 directly to your PS5's USB Port)
+when the phone (aka the bridge) gets plugged in, it throws a "Connect your Playstation VR2 directly to your PS5's USB Port)
 
 <table>
   <tr>
